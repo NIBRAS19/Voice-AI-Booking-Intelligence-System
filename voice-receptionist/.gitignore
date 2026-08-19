@@ -1,0 +1,84 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+venv/
+ENV/
+env/
+.venv/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# Logs
+logs/
+*.log
+
+# Database
+*.db
+*.sqlite3
+
+# Test
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+
+# AI Models (large files)
+models/
+*.onnx
+*.bin
+*.pt
+*.pth
+
+# Audio files
+recordings/
+*.wav
+*.mp3
+*.ogg
+
+# Temp files
+tmp/
+temp/
+*.tmp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Docker
+.docker/
+
+# Node (for admin dashboard)
+node_modules/
+admin-dashboard/node_modules/
+admin-dashboard/dist/
+admin-dashboard/.next/
